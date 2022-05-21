@@ -31,7 +31,7 @@ def make_call():
 
         print(f"Page{page} Done!")
         page += 1
-        time.sleep(10)
+        time.sleep(20)
     return items_map
 
 
